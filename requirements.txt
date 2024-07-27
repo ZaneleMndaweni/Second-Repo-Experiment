@@ -1,3 +1,2 @@
-The following was used to make this web scraper:
-Beautifulsoup4
-Requests
+beautifulsoup4
+requests
